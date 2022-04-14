@@ -16,7 +16,7 @@ https://brandon-perez19.github.io/Work-Day-Scheduler/
   
 ## ScreenShot of Application
 
-![]
+![](assets/images/Screen-shot1.png)
 
 ## Contribution
 
