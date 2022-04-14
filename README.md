@@ -4,7 +4,7 @@
 A website that allows you to set schedule your work day into different hours.
 
 ## Website
-https://brandon-perez19.github.io/
+https://brandon-perez19.github.io/Work-Day-Scheduler/
 
 ## Made With
   BootStrap
@@ -16,7 +16,7 @@ https://brandon-perez19.github.io/
   
 ## ScreenShot of Application
 
-![](assets/images/Screen-Shot.png)
+![]
 
 ## Contribution
 
